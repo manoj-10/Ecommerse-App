@@ -1,0 +1,19 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    align-items: center;
+    background-color: lightgrey;
+}
+
+.nav-left{
+    display: flex;
+    margin-left: 20px;
+}
+
+.nav-right{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 20px;
+    width: 600px;
+}
